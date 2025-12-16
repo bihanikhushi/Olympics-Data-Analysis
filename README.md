@@ -59,4 +59,4 @@ The project also includes **exploratory data analysis (EDA)** and a **basic mach
 ##  How to Run the Project
 1. Clone the repository
    ```bash
-   git clone https://github.com/your-username/Olympics-Data-Analysis.git
+   git clone https://github.com/bihanikhushi/Olympics-Data-Analysis.git
