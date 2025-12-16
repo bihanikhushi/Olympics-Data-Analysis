@@ -1,6 +1,5 @@
 #  Olympics Data Analysis
 
-##  Project Overview
 This project analyzes **Summer Olympics medal data (1976–2008)** to uncover trends in medal distribution, top-performing countries, athletes, gender participation, and dominant sports.  
 The project also includes **exploratory data analysis (EDA)** and a **basic machine learning model** for medal prediction.
 
